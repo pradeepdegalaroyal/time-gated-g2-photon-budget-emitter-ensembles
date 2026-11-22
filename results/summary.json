@@ -1,0 +1,25 @@
+{
+  "quick": false,
+  "seeds": 5,
+  "reps": 300,
+  "scaling_loglog_slope": {
+    "fixed": {
+      "single_ungated": -1.334883015531876,
+      "hbt_ungated": -1.3283299309887893,
+      "hbt_window": -1.027262598025313,
+      "single_window": -1.0415704012307017
+    },
+    "proportional": {
+      "single_ungated": 0.049834720178278266,
+      "hbt_ungated": 0.027733101188124113,
+      "hbt_window": 0.02661092354562447,
+      "single_window": 0.03439988060590881
+    }
+  },
+  "crosstalk_threshold": {
+    "single_ungated": 0.00033336875999997746,
+    "hbt_ungated": 0.0001666288172650338,
+    "hbt_window": 0.00021922341974725537
+  },
+  "runtime_s": 19.0
+}
