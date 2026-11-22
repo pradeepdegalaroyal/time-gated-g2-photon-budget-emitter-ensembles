@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Time-Gated Photon-Correlation Budget for Certifying Non-Classical Light from Emitter Ensembles"
+type: software
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+version: 0.1.0
+date-released: 2026-11-22
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/time-gated-g2-photon-budget-emitter-ensembles"
+abstract: "Exact pulse-budget model and Monte Carlo study of time-gated second-order photon-correlation tests for certifying non-classical light from pulsed emitter ensembles with background and detector crosstalk."
+keywords:
+  - quantum optics
+  - photon correlation
+  - antibunching
+  - single-photon detection
+  - simulation
